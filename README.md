@@ -33,17 +33,5 @@
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=flat&logo=Aseprite&logoColor=#7D929E)
 
----
-
-# 📊 GitHub Stats:
-| ![](https://github-readme-stats.vercel.app/api?username=marick-py&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true) | ![](https://nirzak-streak-stats.vercel.app/?user=marick-py&theme=codeSTACKr&hide_border=false) |
-|---|---|
-
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marick-py&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | ![](https://github-contributor-stats.vercel.app/api?username=marick-py&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true) |
-|---|---|
-
----
-[![](https://visitcount.itsvg.in/api?id=marick-py&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white)](https://paypal.me/emptyheaddev) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/emptyhead_dev) 
+## 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white)](https://paypal.me/emptyheaddev) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/emptyhead_dev) 
