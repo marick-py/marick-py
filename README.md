@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 ### Hi there 👋, I'm Riccardo 
 - 🔭 Working on: **simulation frameworks** (`e2D` in Python + Cython)  
 - 👯 Collaboration: **open-source physics sims, AI, game dev**  
