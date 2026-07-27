@@ -1,37 +1,135 @@
-# About Me:
-### Hi there 👋, I'm Riccardo 
-- 🔭 Working on: **simulation frameworks** (`e2D` in Python + Cython)  
-- 👯 Collaboration: **open-source physics sims, AI, game dev**  
-- 🤝 Help with: **large-scale sim optimization & compiled languages**  
-- 🌱 Learning: **advanced ML & high-performance computing**  
-- 💬 Ask me about: **Python, NumPy, Cython, data analysis, game physics**  
-- ⚡ Fun fact: Started coding at 10 with Scratch — now 250+ projects!
+# Hi, I'm Riccardo 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m.rikk_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mariani-riccardo) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/marick) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/m4r1ck_tv) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@_.marick._) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ricomari2006@gmail.com) 
+### Computer Engineering student and Python developer focused on simulations, performance and automation systems.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)  
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)  
+I study **Computer Engineering at Politecnico di Milano** and have been programming independently since I was around ten years old.
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=flat) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white)  
+I build software end to end: from numerical prototypes and real-time rendering to desktop applications, backend services and self-hosted infrastructure. My usual workflow is to create a working baseline, measure the real bottlenecks and keep iterating until the system is both technically solid and genuinely useful.
 
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat&logo=godot-engine) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white)  
-![P5js](https://img.shields.io/badge/p5.js-ED225D?style=flat&logo=p5.js&logoColor=FFFFFF) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)  
+* 🔭 Currently working on **e2D**, **Darius** and performance-oriented simulation projects
+* 🧠 Interested in **scientific computing, graphics, automation and developer tooling**
+* 🛠️ Most experienced with **Python, NumPy, Cython and Numba**
+* 🎓 Studying at **Politecnico di Milano**
+* 💼 Open to **part-time software engineering opportunities** compatible with university
+* 📍 Based in **Milan, Italy**
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
+## Contact
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)  
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-emptyhead.dev-111111?style=flat-square\&logo=googlechrome\&logoColor=white)](https://www.emptyhead.dev)
+[![Projects](https://img.shields.io/badge/Project%20Archive-View%20Projects-2563EB?style=flat-square\&logo=files\&logoColor=white)](https://www.emptyhead.dev/myprojects?lang=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Riccardo%20Mariani-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mariani-riccardo)
+[![Email](https://img.shields.io/badge/Email-riccardo.mariani%40emptyhead.dev-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:riccardo.mariani@emptyhead.dev)
 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi)  
+## Selected projects
 
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)  
+### e2D
 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=flat&logo=Aseprite&logoColor=#7D929E)
+A Python and Cython toolkit for real-time 2D simulations, optimized vector mathematics and ModernGL rendering.
 
-## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white)](https://paypal.me/emptyheaddev) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/emptyhead_dev) 
+It started as a practical wrapper around Pygame and later evolved into an independent graphics and simulation library built around ModernGL, GLFW, NumPy and compiled vector operations.
+
+[![Repository](https://img.shields.io/badge/GitHub-e2D-181717?style=flat-square\&logo=github)](https://github.com/marick-py/e2D)
+[![PyPI](https://img.shields.io/badge/PyPI-e2D-3775A9?style=flat-square\&logo=pypi\&logoColor=white)](https://pypi.org/project/e2D/)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Cython](https://img.shields.io/badge/Cython-4584B6?style=flat-square\&logo=python\&logoColor=white)
+![ModernGL](https://img.shields.io/badge/ModernGL-OpenGL-5586A4?style=flat-square\&logo=opengl\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+
+---
+
+### PickyText
+
+A Windows desktop utility for capturing text from any part of the screen, selecting recognized words through an interactive overlay and translating them without leaving the current application.
+
+The application combines native Windows OCR, optional Tesseract and Argos fallbacks, configurable global hotkeys, background workers, history management and a PyQt6 interface.
+
+[![Repository](https://img.shields.io/badge/GitHub-PickyText-181717?style=flat-square\&logo=github)](https://github.com/marick-py/PickyText)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat-square\&logo=qt\&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows%2011-0078D4?style=flat-square\&logo=windows11\&logoColor=white)
+![OCR](https://img.shields.io/badge/OCR-WinRT-5C2D91?style=flat-square)
+
+---
+
+### Darius
+
+A self-hosted personal automation system composed of modular services for tool execution, memory, model routing, web interfaces and workload delegation between a VPS and local hardware.
+
+The project is used as a practical environment for experimenting with distributed services, retrieval, observability, LLM integrations, cost-aware routing and personal automation workflows.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-Integrations-6C5CE7?style=flat-square)
+
+---
+
+### Simulations and technical experiments
+
+I maintain a long-running collection of physical simulations and technical experiments, including:
+
+* electric-field and field-line visualization;
+* particle systems and fluid-like sandboxes;
+* evolutionary and reinforcement-learning experiments;
+* graphics and rendering prototypes;
+* procedural generation;
+* computer-vision experiments;
+* automation and developer tools.
+
+Selected projects are progressively being extracted into standalone, documented repositories.
+
+[![Project Archive](https://img.shields.io/badge/Explore-Project%20Archive-2563EB?style=flat-square\&logo=googlechrome\&logoColor=white)](https://www.emptyhead.dev/myprojects?lang=en)
+
+## Core technologies
+
+### Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Cython](https://img.shields.io/badge/Cython-4584B6?style=flat-square\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square\&logo=javascript\&logoColor=F7DF1E)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square\&logo=godotengine\&logoColor=white)
+
+### Scientific computing and graphics
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![Numba](https://img.shields.io/badge/Numba-00A3E0?style=flat-square\&logo=numba\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
+![ModernGL](https://img.shields.io/badge/ModernGL-OpenGL-5586A4?style=flat-square\&logo=opengl\&logoColor=white)
+![GLFW](https://img.shields.io/badge/GLFW-000000?style=flat-square\&logo=opengl\&logoColor=white)
+
+### Backend and infrastructure
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square\&logo=nginx\&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square\&logo=cloudflare\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square\&logo=firebase\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+
+## Teaching
+
+I designed and taught an after-school Python course for high-school students, taking approximately fifteen participants from the fundamentals of programming to a complete final project.
+
+The course covered variables, strings, control flow, functions and program structure through progressive exercises, culminating in a fiscal-code generator assembled from smaller reusable components.
+
+I have also taught introductory programming with Scratch to younger students.
+
+## Current direction
+
+I am currently interested in projects involving:
+
+* Python software engineering;
+* scientific and real-time simulations;
+* performance optimization;
+* backend automation;
+* developer tools;
+* self-hosted services;
+* practical AI and LLM integrations.
+
+I am especially interested in part-time technical roles where I can contribute to real systems while continuing my university studies.
